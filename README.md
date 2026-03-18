@@ -1,8 +1,8 @@
 # Rsponsive-Hero-Section
 A modern, responsive hero-section landing page for an HR consulting firm. Developed with a focus on **pixel-perfect responsiveness**, accessibility, and clean UI components based on a professional Figma prototype.
-Since you’re focusing on **responsive layout adaptation**, this README is structured to highlight your ability to translate a design into a functional, fluid web page.
+This focuses on **responsive layout adaptation**, and structured to translate a figma design into a functional, fluid HTML3 web page.
 
-I’ve also included a section for your **Figma Link** and **Live Demo**
+I’ve also included a section for **Figma Link** and **Live Demo**
 
 ---
 
